@@ -43,25 +43,16 @@ A modern React-based admin dashboard built with Vite, Tailwind CSS, and Material
 npm run build
 ```
 
-## Screenshots
-
-Add your screenshots here to showcase the app UI:
-
-- Home page
-- Products page
-- Analytics page
-- Settings page
-
-Example format:
-
-```md
+## Screenshots.
 ![Home Page](./screenshots/home.png)
+git 
 ![Products Page](./screenshots/products.png)
-![Analytics Page](./screenshots/analytics.png)
-![Settings Page](./screenshots/settings.png)
-```
 
-## Resume-ready Summary
+![Analytics Page](./screenshots/analytics.png)
+
+![Settings Page](./screenshots/settings.png)
+
+## Summary
 
 Built a responsive admin dashboard application using React and modern UI libraries, featuring product CRUD operations, analytics visualization, and a polished settings experience.
 
