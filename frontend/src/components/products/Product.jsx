@@ -17,7 +17,7 @@ const Product = ({ product, onEdit, onDelete }) => {
         </div>
         <div>
           <p className='font-semibold text-gray-800'>{product.name}</p>
-          <p className='text-sm text-gray-500'>SKU #{product.id}</p>
+          <p className='text-sm text-gray-500'>SKU #{product.sku}</p>
         </div>
       </div>
 

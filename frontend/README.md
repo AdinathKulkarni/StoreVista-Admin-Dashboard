@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./public/favicon.svg" alt="StoreVista Logo" width="80" />
 </p>
-
+  
 A full-stack admin dashboard built with **React 19** (frontend) and **Java Spring Boot** (backend). Manage products, visualize analytics, and configure account settings — all in a polished, responsive UI.
 
 ---
